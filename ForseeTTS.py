@@ -12,8 +12,9 @@ from gtts import gTTS
 from playsound import playsound
 
 audio ='speech.mp3'
-language = 'it'
-sp = gTTS(text = "YOOOO BOZO", lang= language,slow=False)
+#SELECT THE LEANGUAGE#
+language = 'en'
+sp = gTTS(text = "Insert Text HERE", lang= language,slow=False)
 
 sp.save(audio)
 playsound(audio)
