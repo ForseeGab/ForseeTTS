@@ -6,7 +6,7 @@ gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Go
 🪟Windows:
 <p>📥py -m pip install gtts</p>
 <p>❓If you have multiply versions of Python installed, you can select which one with a command line argument to py. For example,For example, for Python 3.8, run:</p>
-<p>py -3.8 -m pip install gtts</p>
+<p>📥py -3.8 -m pip install gtts</p>
 🍎MACOs:
 <p>❓On macOS and Linux, you need to run python3</p>
 <p>📥python3 -m pip install gTTS</p>
